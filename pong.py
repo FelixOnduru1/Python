@@ -64,8 +64,8 @@ wn.onkeypress(paddle_b_up, "Up")
 wn.onkeypress(paddle_b_down, "Down")
 
 #Ball Movement
-ball.dx = 0.1
-ball.dy = -0.1
+ball.dx = 0.2
+ball.dy = 0.2
 
 #Scoring
 scoring_a = 0
